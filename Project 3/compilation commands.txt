@@ -1,0 +1,5 @@
+gcc memsim.c -o memsim
+
+./memsim 1024 file.txt 1
+./memsim 1024 file.txt 2
+./memsim 1024 file.txt 3
